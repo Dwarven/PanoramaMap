@@ -1,8 +1,8 @@
 # PanoramaMap
 
-how to use
+how to use: lat、lon of `bd09`
 
 ```
-your_url?lat=xxx&lon=xxx //lat、lon of bd09
+your_url_of_PanoramaMap.html?lat=xxx&lon=xxx
 ```
 
